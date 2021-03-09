@@ -1,3 +1,9 @@
+# Hi I'm Can 👋
+[![Linkedin Badge](https://img.shields.io/badge/-cansevinc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cansevinc/)](https://www.linkedin.com/in/cansevinc/)
+[![Website Badge](https://img.shields.io/badge/-renori.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://renori.com)](https://renori.com)
+[![Twitter Badge](https://img.shields.io/badge/-@acansevinc-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acansevinc)](https://twitter.com/acansevinc)
+[![Instagram Badge](https://img.shields.io/badge/-@cnsevnc__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/cnsevnc/)](https://instagram.com/cnsevnc)
+[![Gmail Badge](https://img.shields.io/badge/-cansevinc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:can@renori.com)](mailto:can@renori.com)
 
 **Tech Stack**
 
